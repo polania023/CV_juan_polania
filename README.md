@@ -1,29 +1,33 @@
-# CV_Example
+# CV_JuanPolania
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Juan SEbastian Polania Reyes
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [juanpolaniareyes8@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz En Análisis y  desarrollado de software .
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Puesto de tintos "coffe masd"** _(2020- 2024)_
+- cajero.
+- tendero.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **I.E.D Juan Rey** _(2015 - 2024)_
+- Bachiller Academico.
+### **Centro de servicios financieros** _(2023 - 2024)_
+- Tecnico en programacion de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Creatividad**
+- **Respeto**
+- **Pensamiento crítico**
+- **Resolución de problemas**
 
 ---
 
